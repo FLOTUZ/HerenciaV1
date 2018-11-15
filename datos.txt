@@ -1,0 +1,8 @@
+
+Base Pedro Jardinero 30 18000 2
+Eventual Luis Plomero 28 30 100
+Base Jorge Pintor 14 1500 1
+Eventual Juan Herrero 20 80 120
+Especializado Victoria Maestra 19 20 90 
+
+ 
